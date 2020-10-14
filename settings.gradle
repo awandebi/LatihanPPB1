@@ -1,0 +1,2 @@
+rootProject.name = "kartu ucapan"
+include ':app'
